@@ -11,7 +11,7 @@ Insights and recommendations are provided on the following key areas:
 - **Customer loyalty and acquisition:** Assessment of repeat customers behaviors and new customers acquisition to uncover opportunities for retention and growth. 
 
 
-Targeted SQL query and python script answering the business questions can be found here [link]().
+Targeted SQL query and python script answering the business questions can be found here [link](https://github.com/tatiana-litvin/Sales-Analysis-The-Look-2019-to-2024/blob/3a6662effbc45d6aaef8ff0dd09e0e1aacce99ff/the-look-market-analysis.ipynb).
 
 
 # Data Structure & Initial Checks
